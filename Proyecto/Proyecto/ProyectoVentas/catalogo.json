@@ -1,0 +1,13 @@
+[ {
+  "id" : 21,
+  "nombre" : "Manzana",
+  "precio" : 25.0,
+  "categoria" : "Frutas",
+  "descripcion" : "1 kilo"
+}, {
+  "id" : 1,
+  "nombre" : "Picafresa",
+  "precio" : 1.0,
+  "categoria" : "Dulces",
+  "descripcion" : "1 pza"
+} ]
